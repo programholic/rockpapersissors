@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Gain {
     public static void main(String[] args){
 
         // ROCK PAPER SCISSORS GAME
